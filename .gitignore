@@ -74,3 +74,4 @@ fabric.properties
 .idea
 *.iml
 target
+!stone-lang-stone/src/main/resources/gluonj.jar
