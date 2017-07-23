@@ -1,1 +1,1 @@
-[![Build Status](https://travis-ci.org/Frederick-S/stone-lang.svg?branch=master)](https://travis-ci.org/Frederick-S/stone-lang)
+[![Build Status](https://travis-ci.org/Frederick-S/stone-lang.svg?branch=master)](https://travis-ci.org/Frederick-S/stone-lang) [![Build status](https://ci.appveyor.com/api/projects/status/jim891bbieqmx4h7?svg=true)](https://ci.appveyor.com/project/Frederick-S/stone-lang)
